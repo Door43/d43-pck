@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pck:home|Door43 (pck)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pck|d43-pck repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pck/archive/master.zip|d43-pck.zip]]
+
+**Recent Changes**
+{{changes>ns = pck}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pck|Ethnologue data]]
+
